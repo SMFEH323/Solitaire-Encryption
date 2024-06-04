@@ -6,7 +6,7 @@ The Solitaire Encryption System is a Java-based implementation of the Solitaire 
 ## Installation
 To install this project, clone the repository using the following command:
 ```
-git clone https://github.com/SMFEH323/solitaire-encryption-system.git
+git clone https://github.com/SMFEH323/solitaire-encryption.git
 ```
 Then, navigate to the directory containing the project files.
 
